@@ -11,6 +11,7 @@ MODELS = [
     # "CompVis/stable-diffusion-v1-4",
     # "WarriorMama777/OrangeMixs",
     "AstraliteHeart / pony-diffusion-v3",
+    "SfinOe/dreamlike_2.0"
     # "stabilityai/stable-diffusion-2-1",
     # "CompVis/stable-diffusion-v-1-4-original",
     # # "hakurei/waifu-diffusion",
