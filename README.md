@@ -1,5 +1,5 @@
 # text2imagebot
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/DeveloperSubhadeep1/ttoimg/blob/main/text2imagebot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeveloperSubhadeep1/ttoimg/blob/main/text2imagebot.ipynb)
 github/nuhmanpk/text2imagebot/blob/main/text2imagebot.ipynb
 [![GitHub issues](https://img.shields.io/github/issues/nuhmanpk/text2imagebot)](https://github.com/nuhmanpk/text2imagebot/issues) 
 [![GitHub stars](https://img.shields.io/github/stars/nuhmanpk/text2imagebot)](https://github.com/nuhmanpk/text2imagebot/stargazers) 
